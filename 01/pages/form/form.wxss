@@ -1,0 +1,8 @@
+.section{
+  margin:0 30rpx 80rpx;
+  padding-left:30rpx;
+  padding-right:30rpx;
+}
+.section_title{
+  margin-bottom:16rpx;
+}

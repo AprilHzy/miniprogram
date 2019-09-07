@@ -1,0 +1,107 @@
+---------------------------------------------------------------
+[2019-09-05T09:26:55+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList
+[ error ] [2002]SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Connection.php:528]
+---------------------------------------------------------------
+[2019-09-05T09:55:40+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [8]未定义变量: map[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:16]
+---------------------------------------------------------------
+[2019-09-05T09:57:18+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [8]未定义变量: map[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:16]
+---------------------------------------------------------------
+[2019-09-05T10:03:09+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [8]未定义变量: map[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:16]
+---------------------------------------------------------------
+[2019-09-05T10:09:25+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '$list' (T_VARIABLE)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:18]
+---------------------------------------------------------------
+[2019-09-05T10:10:36+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected 'dump' (T_STRING)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:17]
+---------------------------------------------------------------
+[2019-09-05T10:10:57+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected 'dump' (T_STRING)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:17]
+---------------------------------------------------------------
+[2019-09-05T10:11:15+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '$list' (T_VARIABLE)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:18]
+---------------------------------------------------------------
+[2019-09-05T10:17:37+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '$list' (T_VARIABLE)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:18]
+---------------------------------------------------------------
+[2019-09-05T10:18:21+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [8]未定义变量: map[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:16]
+---------------------------------------------------------------
+[2019-09-05T10:23:04+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [8]未定义变量: map[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:16]
+---------------------------------------------------------------
+[2019-09-05T10:23:30+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [8]未定义变量: map[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:16]
+---------------------------------------------------------------
+[2019-09-05T10:25:00+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [8]未定义变量: map[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:17]
+---------------------------------------------------------------
+[2019-09-05T11:17:29+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '$list' (T_VARIABLE)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:21]
+---------------------------------------------------------------
+[2019-09-05T11:17:49+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '$list' (T_VARIABLE)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:21]
+---------------------------------------------------------------
+[2019-09-05T11:18:09+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '$list' (T_VARIABLE)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:21]
+---------------------------------------------------------------
+[2019-09-05T11:18:41+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '$list' (T_VARIABLE)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:21]
+---------------------------------------------------------------
+[2019-09-05T11:19:14+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=0&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '$list' (T_VARIABLE)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:21]
+---------------------------------------------------------------
+[2019-09-05T12:04:57+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=1&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '$this' (T_VARIABLE)[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:27]
+---------------------------------------------------------------
+[2019-09-05T12:05:32+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=1&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '}'[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:28]
+---------------------------------------------------------------
+[2019-09-05T12:11:29+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=1&limit=2
+[ error ] [0]语法解析错误: syntax error, unexpected '}'[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:30]
+---------------------------------------------------------------
+[2019-09-05T12:11:47+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=1&limit=2
+[ error ] [8]未定义变量: model[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:27]
+---------------------------------------------------------------
+[2019-09-05T12:12:17+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=1&limit=2
+[ error ] [0]致命错误: Call to a member function getLastSql() on array[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:27]
+---------------------------------------------------------------
+[2019-09-05T12:13:30+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=1&limit=2
+[ error ] [0]致命错误: Call to a member function getLastSql() on array[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:27]
+---------------------------------------------------------------
+[2019-09-05T12:15:30+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=1&limit=2
+[ error ] [2]Invalid argument supplied for foreach()[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:20]
+---------------------------------------------------------------
+[2019-09-05T13:02:48+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=3&limit=2
+[ error ] [0]致命错误: Call to a member function getLastSql() on array[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:27]
+---------------------------------------------------------------
+[2019-09-05T15:14:33+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/lists/pbid/1?&mdm=804
+[ error ] [1]Maximum execution time of 30 seconds exceeded[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\Session.php:536]
+---------------------------------------------------------------
+[2019-09-05T15:15:18+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList?lastid=3&limit=2
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mycms.wp_cms' doesn't exist[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Connection.php:687]
+---------------------------------------------------------------
+[2019-09-05T16:00:39+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList
+[ error ] [0]类型错误: Argument 2 passed to think\db\Query::bindParams() must be of the type array, int given, called in D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php on line 1456[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:1471]
+---------------------------------------------------------------
+[2019-09-05T16:03:32+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList
+[ error ] [8]未定义变量: map[D:\program\xampp\htdocs\weiphp\application\cms\controller\Cms.php:19]
+---------------------------------------------------------------
+[2019-09-05T16:04:34+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList
+[ error ] [0]不支持的数据表达式:id>2[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\builder\Mysql.php:149]
+---------------------------------------------------------------
+[2019-09-05T16:09:10+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column '$lastid' in 'where clause'[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Connection.php:687]
+---------------------------------------------------------------
+[2019-09-05T16:09:27+08:00] ::1 GET localhost/weiphp/public/index.php/cms/cms/getList
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column '$lastid' in 'where clause'[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Connection.php:687]
+---------------------------------------------------------------
+[2019-09-05T19:41:35+08:00] ::1 GET localhost/weiphp/public/index.php/admin/attribute/index/model_id/1493/pbid/1
+[ error ] [8]Trying to get property 'fields' of non-object[D:\program\xampp\htdocs\weiphp\application\admin\controller\Attribute.php:29]
+---------------------------------------------------------------
+[2019-09-05T23:49:52+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/cms/cms/getList?lastid=1&limit=2
+[ error ] [2002]SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Connection.php:528]

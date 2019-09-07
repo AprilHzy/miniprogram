@@ -1,0 +1,7 @@
+<view>
+  <map id="myMap" longitude="114.34253" latitude="30.499840000000013" scale="14" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" style="width:100%;height:300px;" show-location subkey="DOEBZ-O3EAP-WF3DZ-LUAWG-DYEJS-BSFSK" />
+  <button type="primary" size="mini" bindtap="getCenterLocation">获取位置</button>
+  <button type="primary" size="mini" bindtap="moveToLocation">移动位置</button>
+  <button type="primary" size="mini" bindtap="translateMarker">移动标注</button>
+  <button type="primary" size="mini" bindtap="includePoints">缩放视野展示所有经纬度</button>
+</view>

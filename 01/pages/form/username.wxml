@@ -1,0 +1,4 @@
+<view class="section">
+  <view class="section_title">姓名</view>
+  <input name="username" placeholder="请输入姓名" />
+</view>

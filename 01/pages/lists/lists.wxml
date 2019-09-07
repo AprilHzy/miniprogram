@@ -1,0 +1,26 @@
+<!-- lists.wxml -->
+<view class="wrap">
+
+<!-- 文章列表模板 begin -->
+<template name="lists">
+  <navigator url="../../pages/detail/detail?id={{id}}" hover-class="navigator-hover">
+    <view class="imgs">
+      <image src="{{img}}" background-size="cover" model="scaleToFill"></image>
+    </view>
+    <view class="infos">
+      <view class="title">{{title}}</view>
+      <view class="date">{{cTime}}</view>
+    </view>
+  </navigator>
+</template>
+<!-- 文章列表模板 end -->
+
+<!-- 循环输出列表 begin -->
+<view wx:for="{{newsList}}" wx:key="id" class="list">
+  <template is="lists" data="{{...item}}"></template>
+</view>
+<!-- 循环输出列表 end -->
+
+<view bindtap="loadMore" wx:if="{{ newsList.length > 0 }}" data-lastid="{{lastid}}" class="loadMore">加载更多</view>
+  
+</view>

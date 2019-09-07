@@ -1,0 +1,53 @@
+---------------------------------------------------------------
+[2019-09-06T00:48:58+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=5555555&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E5%95%86%E5%9F%8E%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E6%B9%96%E5%8C%97%E7%9C%81%22%2C%22%E9%BB%84%E7%9F%B3%E5%B8%82%22%2C%22%E8%A5%BF%E5%A1%9E%E5%B1%B1%E5%8C%BA%22%5D&score=57&switch=true
+[ error ] [0]method not exist:think\db\Query->add[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:180]
+---------------------------------------------------------------
+[2019-09-06T00:51:18+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=4444&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E5%95%86%E5%9F%8E%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=22&switch=true
+[ error ] [0]method not exist:think\db\Query->add[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:180]
+---------------------------------------------------------------
+[2019-09-06T00:54:20+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=112&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E5%95%86%E5%9F%8E%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=18&switch=true
+[ error ] [0]method not exist:think\db\Query->save[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:180]
+---------------------------------------------------------------
+[2019-09-06T00:55:04+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=112&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E5%95%86%E5%9F%8E%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=18&switch=true
+[ error ] [8]Object of class think\db\Query could not be converted to int[D:\program\xampp\htdocs\weiphp\application\feedback\controller\Feedback.php:20]
+---------------------------------------------------------------
+[2019-09-06T00:55:55+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=112&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E5%95%86%E5%9F%8E%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=18&switch=true
+[ error ] [8]Object of class think\db\Query could not be converted to int[D:\program\xampp\htdocs\weiphp\application\feedback\controller\Feedback.php:21]
+---------------------------------------------------------------
+[2019-09-06T00:56:23+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=112&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E5%95%86%E5%9F%8E%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=18&switch=true
+[ error ] [0]method not exist:think\db\Query->add[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:180]
+---------------------------------------------------------------
+[2019-09-06T00:58:50+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=112&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E5%95%86%E5%9F%8E%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=18&switch=true
+[ error ] [0]method not exist:think\db\Query->add[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:180]
+---------------------------------------------------------------
+[2019-09-06T00:59:24+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=112&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E5%95%86%E5%9F%8E%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=18&switch=true
+[ error ] [0]method not exist:think\db\Query->add[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:180]
+---------------------------------------------------------------
+[2019-09-06T01:01:59+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=112&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E5%95%86%E5%9F%8E%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=18&switch=true
+[ error ] [0]method not exist:think\db\Query->add[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:180]
+---------------------------------------------------------------
+[2019-09-06T10:48:46+08:00] ::1 GET localhost/weiphp/public/index.php
+[ error ] [2002]SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Connection.php:528]
+---------------------------------------------------------------
+[2019-09-06T10:49:11+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/cms/cms/getList?lastid=1&limit=2
+[ error ] [2002]SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Connection.php:528]
+---------------------------------------------------------------
+[2019-09-06T10:57:06+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=443&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E7%A4%BE%E5%8C%BA%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=17&switch=true
+[ error ] [0]method not exist:think\db\Query->add[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:180]
+---------------------------------------------------------------
+[2019-09-06T11:00:55+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=443&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E7%A4%BE%E5%8C%BA%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=17&switch=true
+[ error ] [0]method not exist:think\db\Query->add[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:180]
+---------------------------------------------------------------
+[2019-09-06T11:00:56+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=443&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E7%A4%BE%E5%8C%BA%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&region=%5B%22%E5%B9%BF%E4%B8%9C%E7%9C%81%22%2C%22%E5%B9%BF%E5%B7%9E%E5%B8%82%22%2C%22%E7%8F%A0%E6%B5%B7%E5%8C%BA%22%5D&score=17&switch=true
+[ error ] [0]method not exist:think\db\Query->add[D:\program\xampp\htdocs\weiphp\thinkphp\library\think\db\Query.php:180]
+---------------------------------------------------------------
+[2019-09-06T12:04:07+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=2343&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E7%A4%BE%E5%8C%BA%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&area=%5B%22%E6%B9%96%E5%8C%97%E7%9C%81%22%2C%22%E6%AD%A6%E6%B1%89%E5%B8%82%22%2C%22%E6%B4%AA%E5%B1%B1%E5%8C%BA%22%5D&score=21&is_dev=true
+[ error ] [2]implode(): Invalid arguments passed[D:\program\xampp\htdocs\weiphp\application\feedback\controller\Feedback.php:12]
+---------------------------------------------------------------
+[2019-09-06T12:05:07+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=2343&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E7%A4%BE%E5%8C%BA%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&area=%5B%22%E6%B9%96%E5%8C%97%E7%9C%81%22%2C%22%E6%AD%A6%E6%B1%89%E5%B8%82%22%2C%22%E6%B4%AA%E5%B1%B1%E5%8C%BA%22%5D&score=21&is_dev=true
+[ error ] [2]implode(): Invalid arguments passed[D:\program\xampp\htdocs\weiphp\application\feedback\controller\Feedback.php:13]
+---------------------------------------------------------------
+[2019-09-06T12:07:27+08:00] 192.168.1.104 GET 192.168.1.104/weiphp/public/index.php/feedback/feedback/addFeedback?username=2343&product=%5B%22%E5%B0%8F%E7%A8%8B%E5%BA%8F%22%2C%22%E5%BE%AE%E7%A4%BE%E5%8C%BA%22%5D&channel=%E5%B0%8F%E7%A8%8B%E5%BA%8F&area=%5B%22%E6%B9%96%E5%8C%97%E7%9C%81%22%2C%22%E6%AD%A6%E6%B1%89%E5%B8%82%22%2C%22%E6%B4%AA%E5%B1%B1%E5%8C%BA%22%5D&score=21&is_dev=true
+[ error ] [2]implode(): Invalid arguments passed[D:\program\xampp\htdocs\weiphp\application\feedback\controller\Feedback.php:13]

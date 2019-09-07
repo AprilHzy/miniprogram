@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/lists/lists",
+    "pages/form/form",
+    "pages/detail/detail",
+    "pages/about/about",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/map/map",
+    "pages/setting/setting"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar":{
+    "list":[{
+      "pagePath":"pages/lists/lists",
+      "text":"首页"
+    },
+    {
+      "pagePath": "pages/about/about",
+      "text": "关于我们"
+    },
+    {
+      "pagePath": "pages/form/form",
+      "text": "用户反馈"
+    }]
+  },
+  "sitemapLocation": "sitemap.json"
+}
